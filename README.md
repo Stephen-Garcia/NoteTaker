@@ -13,7 +13,7 @@ Clone the repo, then run NPM Install to install the correct packages
 Here is a screenshot of the app:
 [![Product Name Screen Shot][product-screenshot]](#)
 ## Questions
-If you have any questions, please contact me through email or github, listed below:<br />
+If you have any questions, please contact me through github, listed below:<br />
 <br />
 Find me on GitHub: [Stephen-Garcia](https://github.com/Stephen-Garcia)<br />
 <br />
