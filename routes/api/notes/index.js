@@ -28,8 +28,10 @@ router.post('/', (req, res) => {
     };
 
     console.log(db);    
+
     db.push(newNote);
     console.log(db);
+    
     const notes = JSON.stringify(db);
     fs.writeFile('db/db.json', notes, function (err,res){
         if (err) console.log('error', err);
